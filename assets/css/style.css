@@ -1,14 +1,17 @@
 body {
     background-color: rgb(245, 216, 228);
-    background-image: 123.png;
+    background-image: url("../images/flowersprovidence.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
     opacity: 80%;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 #header {
-    color: rgb(245, 216, 228);
+    color: rgb(248, 244, 246);
 }
 
 #jumbotron {
-    background-color: red;
+    background-color: rgb(141, 90, 120);
+    opacity: 90%;
 }
