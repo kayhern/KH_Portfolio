@@ -1,3 +1,14 @@
 body {
-    background-color: lightyellow
+    background-color: rgb(245, 216, 228);
+    background-image: 123.png;
+    opacity: 80%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#header {
+    color: rgb(245, 216, 228);
+}
+
+#jumbotron {
+    background-color: red;
 }
