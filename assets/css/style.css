@@ -1,9 +1,6 @@
 body {
     background-color: rgb(141, 90, 120);
-    background-image: url("../images/flowersprovidence.jpg");
-    background-repeat: no-repeat;
-    background-position: center;
-    opacity: 80%;
+    opacity: 60%;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
@@ -15,4 +12,11 @@ body {
 #jumbotron {
     background-color: rgb(141, 90, 120);
     opacity: 90%;
+}
+
+#wholepage {
+    background-image: url("../images/flowersprovidence.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-top: 50px;
 }
