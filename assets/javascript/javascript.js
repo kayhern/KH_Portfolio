@@ -1,7 +1,3 @@
-$("#contact").click(function () {
-    window.open("mailto:kristen.e.hernandez@gmail.com");
-});
-
 $("#github").click(function () {
     window.location = "https://github.com/kayhern";
 });
@@ -11,5 +7,5 @@ $("#linkedin").click(function () {
 });
 
 $("#resume").click(function () {
-    window.location = "../images/khernandezresume.pdf";
+    window.location = "https://github.com/kayhern/KH_Portfolio/raw/master/assets/images/khernandezresume.pdf";
 });
