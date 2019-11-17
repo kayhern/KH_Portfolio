@@ -32,6 +32,10 @@ $("#GifTastic").click(function () {
     window.location = "https://kayhern.github.io/GifTastic/";
 });
 
+$("#image1").click(function () {
+    window.location = "https://kayhern.github.io/GifTastic/";
+});
+
 $("#JewelGame").click(function () {
     window.location = "https://kayhern.github.io/unit-4-game/";
 });
