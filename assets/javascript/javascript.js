@@ -24,11 +24,19 @@ $("#Trivia-Game").click(function () {
     window.location = "https://kayhern.github.io/TriviaGame/";
 });
 
+$("#image2").click(function () {
+    window.location = "https://kayhern.github.io/TriviaGame/";
+});
+
 $("#GifTastic").click(function () {
     window.location = "https://kayhern.github.io/GifTastic/";
 });
 
 $("#JewelGame").click(function () {
+    window.location = "https://kayhern.github.io/unit-4-game/";
+});
+
+$("#image3").click(function () {
     window.location = "https://kayhern.github.io/unit-4-game/";
 });
 
