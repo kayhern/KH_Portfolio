@@ -1,5 +1,11 @@
+//window.location: https://stackoverflow.com/questions/13071967/adding-an-onclick-function-to-go-to-url-in-javascript
+
 $("#github").click(function () {
     window.location = "https://github.com/kayhern";
+});
+
+$("#display-4").click(function () {
+    window.location = "index.html"
 });
 
 $("#linkedin").click(function () {
@@ -24,4 +30,16 @@ $("#GifTastic").click(function () {
 
 $("#JewelGame").click(function () {
     window.location = "https://kayhern.github.io/unit-4-game/";
+});
+
+$("#game").click(function () {
+    window.location = "https://github.com/kayhern/TriviaGame";
+});
+
+$("#tastic").click(function () {
+    window.location = "https://github.com/kayhern/GifTastic";
+});
+
+$("#jewels").click(function () {
+    window.location = "https://github.com/kayhern/unit-4-game";
 });

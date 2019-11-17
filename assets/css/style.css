@@ -8,6 +8,9 @@ body {
     color: rgb(248, 244, 246);
 }
 
+/*background image: https://www.w3schools.com/cssref/pr_background-image.asp */
+/*jumbotron: https://getbootstrap.com/docs/4.3/components/jumbotron/ */
+
 #jumbotron {
     background-color: rgb(141, 90, 120);
     opacity: 80%;
@@ -48,6 +51,8 @@ body {
 
 #projects {
     font-size: 30px;
+    text-align: center;
+    color: rgb(248, 244, 246);
 }
 
 #Trivia-Game {
@@ -60,4 +65,9 @@ body {
 
 #JewelGame {
     font-size: 20px;
+}
+
+#columns {
+    text-align: center;
+    color: rgb(248, 244, 246) !important;
 }
