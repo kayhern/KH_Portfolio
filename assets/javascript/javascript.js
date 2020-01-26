@@ -55,3 +55,11 @@ $("#tastic").click(function () {
 $("#jewels").click(function () {
     window.location = "https://github.com/kayhern/unit-4-game";
 });
+
+$("#bamazon").click(function () {
+    window.location = "https://github.com/kayhern/bamazon";
+});
+
+$("#groceryportal").click(function () {
+    window.location = "https://github.com/kayhern/groceryportal";
+});
